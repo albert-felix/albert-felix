@@ -1,6 +1,13 @@
-### Hi there 👋
+### Albert Felix
 
-- 🔭 I’m currently working on ...
+- ⚡ GIS Analyst
+- ⚡ Web Developer - node, express, react, javascript, bootstrap...
+- ⚡ Python Lover
+
+- 🌱 I’m currently learning *VueJs*
+- 👯 I’m looking to collaborate on *React projects*
+
+
 
 
 
