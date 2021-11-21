@@ -7,7 +7,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=albert-felix&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert-felix&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert-felix&langs_count=4&hide=html,css)
 
 
 
