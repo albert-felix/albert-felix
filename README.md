@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on *React projects*
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats](https://github-readme-stats.vercel.app/api?username=albert-felix&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert-felix&langs_count=3)
 
 
 
